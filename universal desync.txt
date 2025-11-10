@@ -1,6 +1,6 @@
 local LPlayer = game:GetService("Players").LocalPlayer
 
-if true hen
+if true then
         local FFlags = {
             DisableDPIScale = true,
             S2PhysicsSenderRate = 15000,
